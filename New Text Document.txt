@@ -1,10 +1,9 @@
 1we
 <<<<<<< HEAD
 1we
-2we
 =======
 2we
-1we
 >>>>>>> new
+1we
 1we
 1we
